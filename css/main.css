@@ -1,0 +1,22 @@
+@keyframes breath{
+  0%{
+    box-shadow: 0 0 10px rgba(0,0,0,1)
+  }
+  100%{
+    box-shadow: 0 0 10px rgba(0,0,0,0.2)
+  }
+}
+#code-wrapper pre{
+	/* height: 100vh;
+	overflow: scroll; */
+	/* display: block;
+	content: '';
+	clear: both; */
+}
+/* #paper{
+	width: 50%;
+	position: fixed;
+	right: 0;
+	height: 200px;
+	border: 1px solid #000000;
+} */
